@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "price": 1999.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "Smartphone com tela de 6.1 polegadas, 128GB de armazenamento e câmera dupla."
+  },
+  {
+    "id": 2,
+    "name": "Notebook Ultra",
+    "price": 3599.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Notebook com processador Intel i7, 16GB RAM e SSD de 512GB."
+  },
+  {
+    "id": 3,
+    "name": "Smart TV 50\" 4K",
+    "price": 2499.00,
+    "image": "https://via.placeholder.com/150",
+    "description": "Smart TV com resolução 4K e acesso a aplicativos de streaming."
+  },
+  {
+    "id": 4,
+    "name": "Console Gamer Pro",
+    "price": 2799.99,
+    "image": "https://via.placeholder.com/150",
+    "description": "Console de última geração com suporte a jogos em 4K e 120 FPS."
+  },
+  {
+    "id": 5,
+    "name": "Fone Bluetooth Noise Cancelling",
+    "price": 599.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Fone de ouvido sem fio com cancelamento ativo de ruído."
+  },
+  {
+    "id": 6,
+    "name": "Câmera DSLR Pro",
+    "price": 4499.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Câmera profissional com sensor de 24.2MP e gravação em 4K."
+  },
+  {
+    "id": 7,
+    "name": "Tablet 8\" Wi-Fi",
+    "price": 899.00,
+    "image": "https://via.placeholder.com/150",
+    "description": "Tablet com tela de 8 polegadas e 32GB de armazenamento."
+  },
+  {
+    "id": 8,
+    "name": "Smartwatch Fit",
+    "price": 799.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Relógio inteligente com monitoramento cardíaco e GPS."
+  },
+  {
+    "id": 9,
+    "name": "Caixa de Som Portátil",
+    "price": 349.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Caixa de som Bluetooth resistente à água com 12 horas de bateria."
+  },
+  {
+    "id": 10,
+    "name": "Monitor 27\" Curvo",
+    "price": 1299.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Monitor curvo Full HD com taxa de atualização de 144Hz."
+  },
+  {
+    "id": 11,
+    "name": "Impressora Wi-Fi Multifuncional",
+    "price": 599.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Impressora com funções de scanner e copiadora e conexão sem fio."
+  },
+  {
+    "id": 12,
+    "name": "Headset Gamer RGB",
+    "price": 299.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Headset com iluminação RGB e som surround virtual 7.1."
+  },
+  {
+    "id": 13,
+    "name": "Mouse Gamer Óptico",
+    "price": 149.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Mouse com alta precisão e botões programáveis."
+  },
+  {
+    "id": 14,
+    "name": "Teclado Mecânico RGB",
+    "price": 399.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Teclado mecânico com switches vermelhos e iluminação personalizável."
+  },
+  {
+    "id": 15,
+    "name": "Roteador Mesh Wi-Fi 6",
+    "price": 899.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Sistema de roteador mesh com ampla cobertura e alta velocidade."
+  },
+  {
+    "id": 16,
+    "name": "HD Externo 2TB",
+    "price": 499.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Disco rígido externo com USB 3.0 para transferência rápida."
+  },
+  {
+    "id": 17,
+    "name": "SSD M.2 NVMe 500GB",
+    "price": 599.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "SSD de alta velocidade para desempenho máximo em jogos e aplicações."
+  },
+  {
+    "id": 18,
+    "name": "Power Bank 20.000mAh",
+    "price": 199.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Carregador portátil com carga rápida e múltiplas portas USB."
+  },
+  {
+    "id": 19,
+    "name": "E-reader Luz Integrada",
+    "price": 649.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Leitor de livros digitais com tela antirreflexo e iluminação ajustável."
+  },
+  {
+    "id": 20,
+    "name": "Webcam HD 1080p",
+    "price": 249.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Webcam com foco automático e microfone com redução de ruído."
+  },
+  {
+    "id": 21,
+    "name": "Placa de Vídeo GTX Series",
+    "price": 2999.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Placa gráfica potente para jogos e aplicações gráficas intensas."
+  },
+  {
+    "id": 22,
+    "name": "Microfone Condensador USB",
+    "price": 399.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Microfone de alta qualidade para streaming e gravações."
+  },
+  {
+    "id": 23,
+    "name": "Drone com Câmera HD",
+    "price": 1299.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Drone compacto com estabilização de imagem e controle via smartphone."
+  },
+  {
+    "id": 24,
+    "name": "Soundbar 2.1 Canais",
+    "price": 799.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Barra de som com subwoofer para uma experiência de áudio imersiva."
+  },
+  {
+    "id": 25,
+    "name": "Carregador Sem Fio",
+    "price": 149.90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Carregador por indução compatível com diversos modelos de smartphones."
+  }
+]
